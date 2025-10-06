@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aabhas Negi and I'm a Software Developer from New Delhi</h2>
+<h2 align="left">Hi ! My name is Aabhas Negi and I'm a Software Developer from New Delhi</h2>
 
 ###
 
